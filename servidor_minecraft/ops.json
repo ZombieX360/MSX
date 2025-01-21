@@ -4,5 +4,11 @@
     "name": "amigobuho360",
     "level": 4,
     "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "382df0e4-a71b-3556-89e9-549d4875730c",
+    "name": "ACUA-Ws",
+    "level": 4,
+    "bypassesPlayerLimit": false
   }
 ]

@@ -33,17 +33,6 @@
         "value": 1024
       }
     },
-    "epicfight:weight": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 1024,
-        "value": 1024
-      }
-    },
     "forge:nametag_distance": {
       "enabled": false,
       "min": {
@@ -55,6 +44,17 @@
         "value": 64
       }
     },
+    "epicfight:weight": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 1024,
+        "value": 1024
+      }
+    },
     "terramity:ranged_damage_bonus": {
       "enabled": false,
       "min": {
@@ -64,17 +64,6 @@
       "max": {
         "default": 2048,
         "value": 2048
-      }
-    },
-    "epicfight:offhand_armor_negation": {
-      "enabled": false,
-      "min": {
-        "default": 0,
-        "value": 0
-      },
-      "max": {
-        "default": 100,
-        "value": 100
       }
     },
     "forge:entity_gravity": {
@@ -97,6 +86,17 @@
       "max": {
         "default": 1024,
         "value": 1024
+      }
+    },
+    "epicfight:offhand_armor_negation": {
+      "enabled": false,
+      "min": {
+        "default": 0,
+        "value": 0
+      },
+      "max": {
+        "default": 100,
+        "value": 100
       }
     },
     "projectile_damage:generic": {
