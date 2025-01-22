@@ -12106,87 +12106,27 @@
     },
     "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "ad_astra:recipes/misc/smelting/desh_ingot_from_smelting_raw_desh": {
     "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
+      "has_desh_ingot": "2025-01-22 02:22:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "ad_astra:recipes/misc/blasting/desh_ingot_from_blasting_raw_desh": {
     "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
+      "has_desh_ingot": "2025-01-22 02:22:33 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_kill": {
+  "ad_astra:recipes/misc/raw_desh_block": {
     "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
+      "has_raw_desh_block": "2025-01-22 02:22:33 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/on_inventory_change": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/feed_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/multiplex_crossbow": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/sentrys_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-01-22 02:27:30 +0000"
-    },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/combat/netherite_chestplate_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-22 02:25:00 +0000"
-    },
-    "done": true
-  },
-  "ad_astra:recipes/misc/smelting/desh_ingot_from_smelting_raw_desh": {
-    "criteria": {
-      "has_desh_ingot": "2025-01-22 02:22:33 +0000"
     },
     "done": true
   },
@@ -12232,12 +12172,6 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/blasting/desh_ingot_from_blasting_raw_desh": {
-    "criteria": {
-      "has_desh_ingot": "2025-01-22 02:22:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_axe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-22 02:25:00 +0000"
@@ -12256,15 +12190,207 @@
     },
     "done": true
   },
-  "ad_astra:recipes/misc/raw_desh_block": {
-    "criteria": {
-      "has_raw_desh_block": "2025-01-22 02:22:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/netherite_pickaxe_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-01-22 02:25:00 +0000"
+    },
+    "done": true
+  },
+  "incendium:technical/on_player_hurt": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_kill": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_inventory_change": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/holy_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/on_block": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/feed_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/give_ghastling": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/multiplex_crossbow": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/inventory/sentrys_wrath": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "incendium:technical/firestorm": {
+    "criteria": {
+      "log_spam_fixer": "2025-01-22 03:01:12 +0000"
+    },
+    "done": false
+  },
+  "ad_astra:recipes/misc/desh_factory_block": {
+    "criteria": {
+      "has_desh_factory_block": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:tier_2_rocket": {
+    "criteria": {
+      "has_tier_2_rocket": "2025-01-22 02:58:20 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_fluid_pipe": {
+    "criteria": {
+      "has_desh_fluid_pipe": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/solar_panel": {
+    "criteria": {
+      "has_solar_panel": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_panel": {
+    "criteria": {
+      "has_desh_panel": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/encased_desh_block": {
+    "criteria": {
+      "has_encased_desh_block": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_engine": {
+    "criteria": {
+      "has_desh_engine": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/gravity_normalizer": {
+    "criteria": {
+      "has_gravity_normalizer": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_tank": {
+    "criteria": {
+      "has_desh_tank": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/tier_1_rover": {
+    "criteria": {
+      "has_tier_1_rover": "2025-01-22 02:54:53 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/compressing/compressing/desh_plate_from_compressing_desh_blocks": {
+    "criteria": {
+      "has_item": "2025-01-22 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/fluid_pipe_duct": {
+    "criteria": {
+      "has_fluid_pipe_duct": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_plateblock": {
+    "criteria": {
+      "has_desh_plateblock": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_plating": {
+    "criteria": {
+      "has_desh_plating": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_cable": {
+    "criteria": {
+      "has_desh_cable": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_sliding_door": {
+    "criteria": {
+      "has_desh_sliding_door": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_ingot_from_desh_block": {
+    "criteria": {
+      "has_desh_ingot": "2025-01-22 02:56:32 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/oxygen_distributor": {
+    "criteria": {
+      "has_oxygen_distributor": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/water_pump": {
+    "criteria": {
+      "has_water_pump": "2025-01-22 02:46:26 +0000"
+    },
+    "done": true
+  },
+  "born_in_chaos_v1:shakeand_mix": {
+    "criteria": {
+      "shakeand_mix_0": "2025-01-22 02:59:01 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/photovoltaic_etrium_cell": {
+    "criteria": {
+      "has_photovoltaic_etrium_cell": "2025-01-22 02:46:26 +0000"
     },
     "done": true
   },
