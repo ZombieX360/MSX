@@ -16243,3 +16243,26 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [22Jan2025 07:37:37.368] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/20895, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
 [22Jan2025 07:37:37.368] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/20895, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
 [22Jan2025 07:37:37.469] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/20895, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[22Jan2025 07:39:46.718] [Server thread/DEBUG] [mixin/]: Mixing MixinMountedStorageManager from create_dd.mixins.json into com.simibubi.create.content.contraptions.MountedStorageManager
+[22Jan2025 07:39:46.719] [Server thread/DEBUG] [mixin/]: Renaming synthetic method lambda$bindTanks$0(Ljava/util/Map;Lnet/minecraft/core/BlockPos;Lcom/simibubi/create/content/contraptions/MountedFluidStorage;)V to mddf89a2$lambda$bindTanks$0$0 in create_dd.mixins.json:MixinMountedStorageManager
+[22Jan2025 07:39:46.736] [Server thread/DEBUG] [mixin/]: Mixing BlockMovementChecksMixin from createaddition.mixins.json into com.simibubi.create.content.contraptions.BlockMovementChecks
+[22Jan2025 07:39:46.736] [Server thread/DEBUG] [mixin/]: Mixing MixinBlockMovementChecks from create_dd.mixins.json into com.simibubi.create.content.contraptions.BlockMovementChecks
+[22Jan2025 07:39:46.744] [Server thread/DEBUG] [mixin/]: Mixing MixinMountedStorage from create_dd.mixins.json into com.simibubi.create.content.contraptions.MountedStorage
+[22Jan2025 07:39:46.768] [Server thread/DEBUG] [mixin/]: Mixing MountedFluidStorageMixin from createdieselgenerators.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[22Jan2025 07:39:46.772] [Server thread/DEBUG] [mixin/]: Mixing AccessorMountedFluidStorage from create_dd.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[22Jan2025 07:39:46.773] [Server thread/DEBUG] [mixin/]: Mixing MixinMountedFluidStorage from create_dd.mixins.json into com.simibubi.create.content.contraptions.MountedFluidStorage
+[22Jan2025 07:39:46.863] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/bearing/ClockworkContraption$HandType
+[22Jan2025 07:39:46.907] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/contraptions/ContraptionCollider$PlayerType
+[22Jan2025 07:39:49.436] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2087ms or 41 ticks behind
+[22Jan2025 07:40:00.451] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/foundation/utility/TreeCutter$SearchDirection
+[22Jan2025 07:40:09.982] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 5583ms or 111 ticks behind
+[22Jan2025 07:42:44.739] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 07:42:44.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 07:42:44.990] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/24592, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[22Jan2025 07:42:44.990] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/24592, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[22Jan2025 07:42:45.098] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/24592, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[22Jan2025 07:47:44.615] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Jan2025 07:47:44.663] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Jan2025 07:47:44.873] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/28092, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[22Jan2025 07:47:44.874] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/28092, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[22Jan2025 07:47:44.980] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/28092, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
