@@ -12322,5 +12322,185 @@
     },
     "done": true
   },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_slab_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_slab": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/polished_moon_stone": {
+    "criteria": {
+      "has_polished_moon_stone": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_pillar": {
+    "criteria": {
+      "has_moon_pillar": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_moon_stone_slab_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_polished_moon_stone_slab": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_stone_bricks": {
+    "criteria": {
+      "has_moon_stone_bricks": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_plating_pressure_plate": {
+    "criteria": {
+      "has_desh_plating_pressure_plate": "2025-01-23 03:23:20 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/chiseled_moon_stone_bricks_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_chiseled_moon_stone_bricks": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_cobblestone_slab_from_moon_cobblestone_stonecutting": {
+    "criteria": {
+      "has_moon_cobblestone_slab": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_bricks_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_bricks": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_cobblestone_stairs_from_moon_cobblestone_stonecutting": {
+    "criteria": {
+      "has_moon_cobblestone_stairs": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_wall_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_wall": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/smelting/moon_stone_from_smelting_moon_cobblestone": {
+    "criteria": {
+      "has_moon_stone": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_stone_stairs": {
+    "criteria": {
+      "has_moon_stone_stairs": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_stairs_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_stairs": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_moon_stone_stairs_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_polished_moon_stone_stairs": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_brick_stairs_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_brick_stairs": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_plating_button": {
+    "criteria": {
+      "has_desh_plating_button": "2025-01-23 03:23:20 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_pillar_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_pillar": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-01-23 03:21:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-01-23 03:21:03 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/polished_moon_stone_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_polished_moon_stone": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-01-23 03:20:58 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_cobblestone_slab": {
+    "criteria": {
+      "has_moon_cobblestone_slab": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/sky_stone": {
+    "criteria": {
+      "has_sky_stone": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_pillar": {
+    "criteria": {
+      "has_desh_pillar": "2025-01-23 03:23:20 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_cobblestone_stairs": {
+    "criteria": {
+      "has_moon_cobblestone_stairs": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_plating_stairs": {
+    "criteria": {
+      "has_desh_plating_stairs": "2025-01-23 03:23:20 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/desh_plating_slab": {
+    "criteria": {
+      "has_desh_plating_slab": "2025-01-23 03:23:20 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/moon_stone_slab": {
+    "criteria": {
+      "has_moon_stone_slab": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/stonecutting/moon_stone_slab_from_moon_stone_stonecutting": {
+    "criteria": {
+      "has_moon_stone_slab": "2025-01-23 03:21:02 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
