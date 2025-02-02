@@ -603,6 +603,7 @@
       "hot_springs": "2025-01-10 04:59:33 +0000",
       "spider_nest": "2025-01-01 04:26:11 +0000",
       "wasteland": "2025-01-04 06:43:46 +0000",
+      "old_growth_dead_forest": "2025-01-23 04:13:21 +0000",
       "redwood_forest": "2025-01-04 05:54:03 +0000",
       "dune_beach": "2024-12-30 01:14:25 +0000",
       "seasonal_forest": "2024-12-23 21:54:16 +0000",
@@ -12505,6 +12506,12 @@
   "ad_astra:recipes/misc/strophar_planks": {
     "criteria": {
       "has_strophar_planks": "2025-01-23 03:38:57 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:hallowheart": {
+    "criteria": {
+      "items": "2025-01-23 04:22:11 +0000"
     },
     "done": true
   },
