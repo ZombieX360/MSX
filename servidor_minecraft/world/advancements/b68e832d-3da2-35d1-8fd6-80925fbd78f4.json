@@ -12515,5 +12515,11 @@
     },
     "done": true
   },
+  "create_dd:recipes/create_dd.base/crafting/coal_piece_from_coal": {
+    "criteria": {
+      "has_coal_piece": "2025-02-02 00:42:33 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
