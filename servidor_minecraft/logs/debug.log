@@ -16717,3 +16717,24 @@ Caused by: java.lang.IllegalArgumentException: Whilst parsing command on line 1:
 [02Feb2025 00:54:06.856] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
 [02Feb2025 00:54:06.981] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
 [02Feb2025 00:54:23.206] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/api/capability/ISoulConsumer$ConsumeResult$Result
+[02Feb2025 00:54:54.335] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[02Feb2025 00:56:46.308] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 00:56:46.345] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 00:56:46.521] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/15919, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[02Feb2025 00:56:46.521] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/15919, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[02Feb2025 00:56:46.613] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/15919, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[02Feb2025 00:58:34.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was blown up by Faller
+[02Feb2025 00:58:34.012] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:966, y:10, z:1600, dim:minecraft:overworld]
+[02Feb2025 00:58:34.039] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[02Feb2025 00:58:35.325] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[02Feb2025 00:58:35.432] [Server thread/INFO] [do_a_barrel_roll/]: Client of amigobuho360 accepted server config.
+[02Feb2025 01:01:25.895] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/18407, l='ServerLevel[world]', x=911.60, y=-256.00, z=1645.02] died, message: 'Unemployed was killed'
+[02Feb2025 01:01:46.300] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02Feb2025 01:01:46.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02Feb2025 01:01:46.486] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Redstone Torch'/18991, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46], dimensionLocationPath overworld
+[02Feb2025 01:01:46.486] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Redstone Torch'/18991, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46] in list []
+[02Feb2025 01:01:46.594] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Redstone Torch'/18991, l='ServerLevel[world]', x=1.34, y=13.61, z=15.46, removed=UNLOADED_TO_CHUNK]
+[02Feb2025 01:04:36.134] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/19622, l='ServerLevel[world]', x=949.47, y=37.62, z=1658.75], dimensionLocationPath overworld
+[02Feb2025 01:04:36.134] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/19622, l='ServerLevel[world]', x=949.47, y=37.62, z=1658.75] in list []
+[02Feb2025 01:04:36.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/19624, l='ServerLevel[world]', x=952.71, y=34.52, z=1653.60], dimensionLocationPath overworld
+[02Feb2025 01:04:36.135] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/19624, l='ServerLevel[world]', x=952.71, y=34.52, z=1653.60] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@4ca6]
